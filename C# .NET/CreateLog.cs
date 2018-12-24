@@ -10,7 +10,7 @@ namespace LogReader
 {
     public class CreateLog
     {
-        public int ID { get; set; }
+        private int ID { get; set; }
         public int parent { get; set; }
         private DateTime date { get; set; }
         public String action { get; set; }
