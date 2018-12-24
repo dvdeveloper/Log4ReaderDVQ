@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<root>
+  <logs>
+    <id>1</id>
+    <parent>0</parent>
+    <datetime>24-12-2018 04:31:45</datetime>
+    <action>/log/?id=1</action>
+    <title>test php</title>
+    <type>GET/ /log/?id=1</type>
+    <message>test</message>
+    <parameters>id=1</parameters>
+    <users>root</users>
+    <ip>::1</ip>
+    <origen>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 OPR/57.0.3098.106</origen>
+  </logs>
+</root>
